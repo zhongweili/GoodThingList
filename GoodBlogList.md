@@ -20,6 +20,7 @@
 ★★★★☆ | 阮一峰|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)|技术
 ★★★★☆ | 冯大辉|[DBA Notes](http://dbanotes.net/)|#
 ★★★★☆ | 刘未鹏|[Mind Hacks](http://mindhacks.cn)|心智
+★★★★☆ | 张五常|[张五常的博客](http://blog.sina.com.cn/zhangwuchang)|经济
 ★★★★☆ | 同人于野|[学而时嘻之](http://www.geekonomics10000.com)|#
 ★★★★☆ | 苏杰|[人人都是产品经理](http://iamsujie.com)|产品
 ★★★★☆ | 熊节|[透明思考](http://gigix.thoughtworkers.org)|#
@@ -35,9 +36,7 @@
 ★★★★☆ | 狗熊|[狗熊有话说](http://www.iclubkm.com/bearbigpodcast)|读书
 ★★★★☆ | 黄集伟|[孤岛客](http://www.huangjiwei.com/blog)|语文
 ★★★★☆ | 小强|[小强的时间管理博客](http://www.gtdlife.com)|效率
-★★★★☆ | 王俊煜|[猫窝](http://blog.wangjunyu.net/)|#
 ★★★★☆ | 辉格|[海德沙龙（HeadSalon）](http://headsalon.org/)|#
-★★★★☆ | 木遥|[木遥的窗子](http://blog.farmostwood.net)|#
 ★★★★☆ | 扫地老僧 |[扫地老僧的Blog](http://www.doyj.com/)|#
 ★★★★☆ | 王烁|[两面埋伏](http://wangshuo.blog.caixin.com)|智慧
 ★★★★☆ | 王文勇|[异乡的路](http://wangwenyong.blog.caixin.com)|投资
@@ -53,16 +52,16 @@
 ★★★★☆ | 郑伊廷|[XDite](http://blog.xdite.net/)|编程
 ★★★★☆ | 王垠|[当然我在扯淡](http://www.yinwang.org/)|编程
 
-
 同侪| #|#|#
 ★★★★☆ | 刀刀|[刀刀的博客](http://wanyiping.com/)|#
 ★★★★☆ | 田捷|[田捷博客](http://violettianjie.com/)|#
 ★★★★☆ | 李广鹤|[Li Guanghe's Blog](https://liguanghe.github.io/)|#
 ★★★★☆ | 闪闪|[ishanshan's blog](http://ishanshan.top/)|#
-
+★★★★☆ | 王俊煜|[猫窝](http://blog.wangjunyu.net/)|#
 ★★★★☆ | 素生|[素生|误读人生，化人生活](http://z.arlmy.me/)|#
 ★★★★☆ | 翁天信|[翁天信·Dandy Weng](https://www.dandyweng.com/)|#
 ★★★★☆ | 胡裕宁|[Lunatic Game](http://www.huyuning.com/)|#
+★★★★☆ | 木遥|[木遥的窗子](http://blog.farmostwood.net)|#
 ★★★★☆ | 陈仓颉|[陈仓颉-以有涯随无涯](https://imzm.im)|#
 ★★★★☆ | AB先生|[AB先生说](https://absir.me)|#
 ★★★★☆ | 大虾|[大虾说AI](http://www.ramywu.com/)|#
@@ -98,6 +97,7 @@
 ★★★★☆ | berkeleymews|[Berkeley Mews](http://www.berkeleymews.com/)|漫画
 ★★★★☆ | 纽约时报中文网热门图集|[纽约时报中文网热门图集](http://www.rssfull.net/rss/nytimesphoto.xml)|图片集
 ★★★★☆ | Leica中文摄影杂志|[Leica中文摄影杂志](http://www.leica.org.cn/)|高质量摄影集
+
 我的博客| #|#|#
 ★★★★☆ | 李仲伟|[zhongwei's blog](http://lizhongwei.me)|博客
 
@@ -128,7 +128,7 @@
 ★★★★☆ | @卢昌海|[@卢昌海](http://sinacn.weibodangan.com/user/2118883217/)|#
 
 
-## 好·微信公众号专栏清单
+## 好·微信公众号清单
 
 评分   |  作者 | 名称    | 备注 
 ----- | ----- | ------ | -----
