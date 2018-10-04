@@ -6,8 +6,6 @@
 
 此即我的实用型清单列表。
 
-forked from [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
-
 ## 如何选择工具？
 
 关于如何选择工具，不妨参考[科幻小说作家 Bruce Sterling 的清单](http://www.tonyyet.com/tools)：
@@ -31,7 +29,7 @@ forked from [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
 - [好·播客清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodPodcastList.md)
 - 其他的陆续更新中，你可以一个个点开看
 
-## 好·生活用品（重点推荐）
+## 好·生活用品
 
 - [好·生活好物](https://github.com/cnfeat/GoodThingList/blob/master/GoodLivingGoods.md)
 
