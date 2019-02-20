@@ -134,16 +134,16 @@
 ----- | ----- | ------ | -----
 ★★★★☆ | 阳志平|[心智工具箱](https://mp.weixin.qq.com/profile?src=3&timestamp=1500018611&ver=1&signature=brx5HO*7wse6hN6BxHAMvbdE-AiggiJMejIgO0dzl6uNmra1HE*2WM7XxvTAHAPs34VXtvqQsqWqYOwoqZsu2Q==)|#
 ★★★★☆ | 曹政|[CaoZ的梦呓](http://www.cnfeat.com)|#
-★★★★☆ | 王烁|[BetterRead](http://weixin.sogou.com/gzh?openid=oIWsFtzlPT6H1lBcujdXI4Fk3WYc&ext=3Q58_wfJO18ZYj1vuV3F1FgUyi_5KRcC-KTdBhTY2z9LYTqhCjmQxSLEV7m3huFh)|有理、有趣、有用的英文读物推介.
+★★★★☆ | 冯大辉|[小道消息](http://weixin.sogou.com/gzh?openid=oIWsFt86NKeSGd_BQKp1GcDkYpv0&ext=3Q58_wfJO1_MbGkZCS5jJmvXlrXy1oB-RYBn31JzVmb_XWYOvvNYRViNGXfNSSAc)|#
+★★★★☆ | 王烁|[BetterRead](http://weixin.sogou.com/gzh?openid=oIWsFtzlPT6H1lBcujdXI4Fk3WYc&ext=3Q58_wfJO18ZYj1vuV3F1FgUyi_5KRcC-KTdBhTY2z9LYTqhCjmQxSLEV7m3huFh)|#
 ★★★★☆ | 方柏林|[fangberlin](http://weixin.sogou.com/gzh?openid=oIWsFt2jT4U8HWMaHJdC_Y8uKr3U&ext=3Q58_wfJO18px9yvxpOSD7sT2krZj1sC4MBlQrrH7sTZq3VCq3eIiUCPI-vL7E02)|#
 ★★★★☆ | 宋玮|[LateNews by 小晚](http://weixin.sogou.com/gzh?openid=oIWsFtzP3nM7iackTqbDR5fhUaQA&ext=3Q58_wfJO1_ArQibodIWxOqLWSRirr1OSZn0kpJjM4T0VJYXpPUZwCXqxPSHKy-r)|#
-★★★★☆ | 冯大辉|[小道消息](http://weixin.sogou.com/gzh?openid=oIWsFt86NKeSGd_BQKp1GcDkYpv0&ext=3Q58_wfJO1_MbGkZCS5jJmvXlrXy1oB-RYBn31JzVmb_XWYOvvNYRViNGXfNSSAc)|#
 ★★★★☆ | 詹膑|[Story](http://weixin.sogou.com/gzh?openid=oIWsFt20HqopHFX35ncHqZxGPD4g&ext=3Q58_wfJO185QeYrjTK4AAi0RuyN6Xwqsk1-7MpVd4Ge4C7i3YkA8J1uCb15N3FY)|#
 ★★★★☆ | 余弦|[懒人在思考](http://weixin.sogou.com/gzh?openid=oIWsFtwo1az2FajUL609KV51jhrM&ext=3Q58_wfJO1950gStFM0ncZVPuIePW4yPsAPeMVsENQiwf8pI506ax4pgBrS-VC6V)|#
 ★★★★☆ | 连岳|[连岳](http://weixin.sogou.com/gzh?openid=oIWsFt0e_MEZmRrjEbLsh99_H13E&ext=3Q58_wfJO1-7D37KmQX3L6aSoNtOnKtycxLiHQWdZjR5wSKsvOhK8fYEQ2_Sc7Ju)|#
 ★★★★☆ | 霍炬|[歪理邪说](http://weixin.sogou.com/gzh?openid=oIWsFt3qoq0iKzqXrPeKhIujXtow&ext=3Q58_wfJO19FCynn6woLlGuXqi3LyN5yJ4bRWzmKoZKrXiLetbem6GgEcH5SB_T9)|#
 ★★★★☆ | joey|[老鹰说](http://weixin.sogou.com/gzh?openid=oIWsFtwpx4WaL2AzuAe1OmSHfB5Q&ext=3Q58_wfJO1_UpM45fU9gqc50y16N5MujHVkhbwSgWuinqZqc5GyIcwGJgRqcxw58)|#
-★★★★☆ | 李笑来|[学习学习再学习](http://weixin.sogou.com/gzh?openid=oIWsFt6EIlPo4HTI9rVCO4Qr60Hc&ext=3Q58_wfJO1_0nmPYkCWFhIVWg9gxKadaEL8pKcbCI6yZ8PviM3fIbk6W2g0u408w)|一生只有一个职业：学生
+★★★★☆ | 李笑来|[学习学习再学习](http://weixin.sogou.com/gzh?openid=oIWsFt6EIlPo4HTI9rVCO4Qr60Hc&ext=3Q58_wfJO1_0nmPYkCWFhIVWg9gxKadaEL8pKcbCI6yZ8PviM3fIbk6W2g0u408w)|#
 ★★★★☆ | 阑夕|[阑夕](http://www.cnfeat.com)|#
 ★★★★☆ | 哈佛商业评论|[哈佛商业评论](http://www.cnfeat.com)|#
 ★★★★☆ | 笔记侠|[笔记侠](http://www.cnfeat.com)|#
